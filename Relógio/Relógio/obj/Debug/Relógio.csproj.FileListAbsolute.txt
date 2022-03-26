@@ -1,0 +1,9 @@
+D:\Manhã\PCI\Relógio\Relógio\bin\Debug\Relógio.exe.config
+D:\Manhã\PCI\Relógio\Relógio\bin\Debug\Relógio.exe
+D:\Manhã\PCI\Relógio\Relógio\bin\Debug\Relógio.pdb
+D:\Manhã\PCI\Relógio\Relógio\obj\Debug\Relógio.csprojResolveAssemblyReference.cache
+D:\Manhã\PCI\Relógio\Relógio\obj\Debug\Relógio.FrmRelógio.resources
+D:\Manhã\PCI\Relógio\Relógio\obj\Debug\Relógio.Properties.Resources.resources
+D:\Manhã\PCI\Relógio\Relógio\obj\Debug\Relógio.csproj.GenerateResource.Cache
+D:\Manhã\PCI\Relógio\Relógio\obj\Debug\Relógio.exe
+D:\Manhã\PCI\Relógio\Relógio\obj\Debug\Relógio.pdb
